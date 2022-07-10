@@ -16,6 +16,5 @@ for box in bboxes:
     
 cv2.imshow('facedetection',pic)
 cv2.waitKey()
-# cv2.destroyAllWindows()
 
     
